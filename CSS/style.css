@@ -153,3 +153,32 @@ body {
     padding: 10px;
     width: 50%;
 }
+
+.section-four {
+    /* padding-top: 10px; */
+    background-color: #000066;
+    color: #FFFFFF;
+    height: 20vh;
+}
+
+#section-four-text {
+    margin-top: 1px;
+    margin-right: 4px;
+    font-size: 35px;
+}
+
+#section-four-paragraph {
+    margin-bottom: 24px;
+}
+
+.section-four .line {
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px; */
+}
+
+.section-four .half-width {
+    padding-top: 15px;
+    width: 200px;
+    height: 120px;
+}
