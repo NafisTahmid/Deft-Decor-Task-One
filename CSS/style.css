@@ -1,0 +1,155 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar {
+    width: 80%;
+    height: 10vh;
+    margin: auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #6c757d;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    text-transform: uppercase;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+#hero-image {
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 15px;
+}
+
+.container img {
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 15px;
+}
+
+.line {
+    display: flex;
+    /* background-color: 	#F9F6EE; */
+    padding: 10px;
+}
+
+
+.line button {
+    padding: 10px;
+    width: 180px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: #FF8C00;
+    color: white;
+    border: 1px solid 	#FF4500;
+    border-radius: 15px;
+    font-size: 16px;
+}
+
+#margin-section-one {
+    margin-top: 100px;
+}
+
+.half-width-one {
+    margin-top: 10px;
+}
+
+.img-first-section {
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+#img-first {
+    margin-left: 10px;
+}
+
+#first-section-button {
+    width: 120px;
+    height: 50px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+#first-paragraph-text {
+    text-align: center;
+}
+
+.orange-text {
+    color: #FF8C00;
+}
+
+#image-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.section-two {
+    margin: 20px;
+}
+
+.section-two .line {
+    justify-content: center;
+    align-items: center;
+}
+
+.section-two .half-width {
+    border-radius: 5px;
+    border: 2px solid #e5e5e5;
+    width: 200px;
+    /* height: 100px; */
+    margin: 10px;
+    padding-top: 10px;
+}
+
+#show-more-text {
+    font-weight: 700;
+    color: #000000;
+}
+
+#flower-image {
+    width: 600px;
+    height: 350px;
+}
+
+
+
+.section-three .left-section {
+    padding: 10px;
+    width: 50%;
+}
+
+.section-three .right-section {
+    padding: 10px;
+    width: 50%;
+}
